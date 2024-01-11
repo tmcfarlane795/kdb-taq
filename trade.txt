@@ -1,3 +1,5 @@
+This edit will be included with the first commit of trade.txt
+
 time	sym	price	size
 2019-06-18D03:05:14.702097000	MSFT.O	8.904193	1
 2019-06-18D03:05:16.716154000	GS.N	26.47404	1
