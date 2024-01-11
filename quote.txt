@@ -1,5 +1,7 @@
 This edit will be included with the first commit of quote.txt
 
+This edit will be included with the second commit of quote.txt
+
 time	sym	bid	ask	bsize	asize
 2019-06-18D03:05:15.716040000	GS.N	4.194429	28.92601	4	5
 2019-06-18D03:05:17.715982000	GS.N	11.53192	48.36199	9	4
